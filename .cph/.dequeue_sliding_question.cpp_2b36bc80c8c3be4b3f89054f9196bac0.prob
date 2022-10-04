@@ -1,0 +1,1 @@
+{"name":"Local: dequeue_sliding_question","url":"f:\\data structure\\apna new data structure\\dequeue_sliding_question.cpp","tests":[{"id":1664126800598,"input":"6 2\n3 4 9 1 -4 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\data structure\\apna new data structure\\dequeue_sliding_question.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Searching_IN_matrix_LOG(N)","url":"f:\\data structure\\apna new data structure\\Searching_IN_matrix_LOG(N).cpp","tests":[{"id":1663604725704,"input":"3 3 12\n1 2 3\n4 5 6\n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\data structure\\apna new data structure\\Searching_IN_matrix_LOG(N).cpp","group":"local","local":true}
