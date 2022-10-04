@@ -1,3 +1,6 @@
+
+// Values taken by users in 2D array 
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
