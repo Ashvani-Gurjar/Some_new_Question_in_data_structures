@@ -21,7 +21,7 @@ class Trie{
        void insert(string &s){
           node *it =root;
           for(auto c:s){
-               if(it->next[c-'a'])
+               if(!it->next[c-'a'])
                 it->next[c-'a'] =new node();
                 it =it->next[c -'a'];
           }  
@@ -33,7 +33,7 @@ class Trie{
                if(!it->next[c-'a']){
                     cout<<"No suggestions"<<endl;
                     insert(s);
-                    return ;
+                    return;
                }
                it =it->next[c-'a'];
           }
