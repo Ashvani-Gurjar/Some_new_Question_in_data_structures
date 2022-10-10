@@ -11,6 +11,7 @@ class node{
           end =false;
      }
 };
+
 class Trie{
      private:
        node*root;
